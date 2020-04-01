@@ -1,0 +1,32 @@
+{
+          "id": 1,
+          "name": 'ARDUINO',
+          "logo": 'https://education.github.com/assets/pack/logo-arduino-9326bf0e1f42f29a4db15f818395ed0ce4403eca73295bb06a3865e553be995d.jpg',
+          "about":'Empower scientists and artists of the future with creative STEM programs.',
+          "offer":'Free Arduino Create Maker plan for 6 months and discounts on selected hardware.'
+        },
+        {
+          "id": 2,
+          "name": 'YAKINDU',
+          "logo": 'https://education.github.com/assets/pack/logo-yakindu-c1ab94ebc84a0be54833817568278048cedd6cf11a3e5b235231eff527399921.jpg',
+          "about":'An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.',
+          "offer":'Yakindu Professional Edition free for 1 year'
+        },{
+          "id": 3,
+          "name": 'XOJO',
+          "logo": 'https://education.github.com/assets/pack/logo-xojo-0e993ca1f1466e0de78883bc5f68d6d2376250ef8f5a025dd03ea6b003229c12.jpg',
+          "about":'A cross-platform development tool for making native apps for the Desktop.',
+          "offer":'Xojo Desktop license free while you are a student.'
+        },{
+          "id": 4,
+          "name": 'UNITY',
+          "logo": 'https://education.github.com/assets/pack/logo-unity-7757d459e3782e03079eecf7f7a5350e9b94620d49db0f980e53948cb4524d47.jpg',
+          "about":'Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.',
+          "offer":'Unity Student Plan free while you are a student.'
+        },{
+          "id": 5,
+          "name": 'SIDER',
+          "logo": 'https://education.github.com/assets/pack/logo-sider-634148bc1348550d5037b723ce5a7dbaf2d40dc87571fd2e0d97675b0516538a.jpg',
+          "about": "Maximize your engineering team's productivity by automatically analyzing every pull request.",
+          "offer":'Free Arduino Create Maker plan for 6 months and discounts on selected hardware.'
+        }
